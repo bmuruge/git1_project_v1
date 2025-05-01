@@ -3,4 +3,8 @@ This git 2 file
 This is dev testing
 
 This for demo1
+<<<<<<< Updated upstream
 This git stash change 
+=======
+This git stash 1 
+>>>>>>> Stashed changes
