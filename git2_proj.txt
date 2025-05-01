@@ -4,7 +4,11 @@ This is dev testing
 
 This for demo1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This git stash change 
+=======
+This git stash 1 
+>>>>>>> Stashed changes
 =======
 This git stash 1 
 >>>>>>> Stashed changes
